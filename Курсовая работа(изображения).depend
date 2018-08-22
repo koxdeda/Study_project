@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463666205 source:c:\users\user\desktop\ГУАП, Работы\С++\Курсовая работа(изображения)\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+
